@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+button {
+    text-align: center;
+}
+
+#container {
+    position: relative;
+}
+
+#add {
+    margin-left: 45%;
+    margin-right: 45%;
+}
